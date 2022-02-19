@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cambioTest_static.CambioMonedaStaticTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-02-19T02:09:15" hostname="mbp-de-cristian" time="0.028">
+  <properties/>
+  <testcase name="verifyCambioA()" classname="cambioTest_static.CambioMonedaStaticTest" time="0.023"/>
+  <testcase name="verifyCambioB()" classname="cambioTest_static.CambioMonedaStaticTest" time="0.002"/>
+  <testcase name="verifyCambioC()" classname="cambioTest_static.CambioMonedaStaticTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
